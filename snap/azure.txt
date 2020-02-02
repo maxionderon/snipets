@@ -1,0 +1,1 @@
+sudo snap alias azure-cli az
